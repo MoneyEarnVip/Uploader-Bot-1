@@ -24,6 +24,7 @@ sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ
 
 sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 ➠ sᴇɴᴅ /showthumb ᴛᴏ ᴠɪᴇᴡ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ.
+
 Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://telegram.me/Disney_Bots)
  
 """
