@@ -245,11 +245,11 @@ File Size: {}""".format(url, humanbytes(total_length))
                     estimated_total_time = elapsed_time + time_to_completion
                     try:
                         current_message = """**DᴏᴡɴʟᴏᴀᴅɪɴG**
-** 🔗 Uʀʟ :** {}
+**🔗 Uʀʟ :** {}
 
 **🗂️ Sɪᴢᴇ :**  {}
 
-** ✅ Dᴏɴᴇ :** {}
+**✅ Dᴏɴᴇ :** {}
 
 **⏱️ Eᴛᴀ :** {}""".format(
     url,
