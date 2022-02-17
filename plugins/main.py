@@ -3,62 +3,75 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     START_TEXT = """
-Hey {}
 
-I am Telegram Most Powerful Url Uploader Bot
+👋 Hᴇʟʟᴏ , {} ♡
 
-I can Upload Any Link in File or Video except Drm Protected Links
+Tʜɪꜱ ɪꜱ ᴘᴏᴡᴇʀꜰᴜʟ ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ.
 
-Use Help Button to Know How to Use me
+Pʀᴇꜱꜱ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ...
 
-Made With 💕 By @Tellybots
+Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://telegram.me/Disney_Bots)
 """
     HELP_TEXT = """
-Link to Media or File
-➠ Send a link for upload to telegram file or media.
+ʟɪɴᴋ ᴛᴏ ᴍᴇᴅɪᴀ ᴏʀ ғɪʟᴇ
+➠ sᴇɴᴅ ᴀ ʟɪɴᴋ ғᴏʀ ᴜᴘʟᴏᴀᴅ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ ᴏʀ ᴍᴇᴅɪᴀ.
 
-Set Thumbnail
-➠ Send a photo to make it as permanent thumbnail.
+sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ
+➠ sᴇɴᴅ ᴀ ᴘʜᴏᴛᴏ ᴛᴏ ᴍᴀᴋᴇ ɪᴛ ᴀs ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ.
 
-Deleting Thumbnail
-➠ Send /delthumbnail to delete thumbnail.
+ᴅᴇʟᴇᴛɪɴɢ ᴛʜᴜᴍʙɴᴀɪʟ
+➠ sᴇɴᴅ /delthumbnail ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴛʜᴜᴍʙɴᴀɪʟ.
 
-Show Thumbnail
-➠ Send /showthumb to view custom thumbnail.
-
-Made With 💕 By @Tellybots
+sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
+➠ sᴇɴᴅ /showthumb ᴛᴏ ᴠɪᴇᴡ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ.
+Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://telegram.me/Disney_Bots)
+ 
 """
     ABOUT_TEXT = """
- **🤖 Bot :** Url Uploader\n
- **👲 Developer :** [Tellybots](https://telegram.me/tellybots)\n
- **👥 Channel :** [Tellybots](https://telegram.me/tellybots)\n
- **❄️ Credits :** Everyone in this journey\n
- **🍴 Source :** [Click here](https://t.me/tellybots_digital)\n
- **📝 Language :** [Python3](https://python.org)\n
- **📚 Library :** [Pyrogram v1.2.0](https://pyrogram.org)\n
- **🌟 Server :** [Heroku](https://heroku.com)\n
+**Mʏ ɴᴀᴍᴇ** : [ᴜᴘʟᴏᴀᴅᴇʀ x ʙᴏᴛ](https://t.me/UploaderrXRobot)
+
+**Cʜᴀɴɴᴇʟ** : [ᴛᴀᴍɪʟᴀɴ x ʙᴏᴛs](https://t.me/Disney_Bots)
+
+**Vᴇʀꜱɪᴏɴ** : [2.0 ʙᴇᴛᴀ](https://t.me/UploaderrXRobot)
+
+**Sᴏᴜʀᴄᴇ** : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/tamilanbots)
+
+**Sᴇʀᴠᴇʀ** : [ʜᴇʀᴏᴋᴜ](https://heroku.com/)
+
+**Lᴀɴɢᴜᴀɢᴇ :** [Pʏᴛʜᴏɴ 3.10.2](https://www.python.org/)
+
+**Fʀᴀᴍᴇᴡᴏʀᴋ :** [ᴘʏʀᴏɢᴀᴍ 1.2.9](https://docs.pyrogram.org/)
+
+**Dᴇᴠᴇʟᴏᴘᴇʀ :** [𝙼𝚘𝚗𝚎𝚢𝙴𝚊𝚛𝚗𝚅𝙸𝙿](https://t.me/tamilanbots)
+
+**Pᴏᴡᴇʀᴇᴅ ʙʏ :** [@ᴅɪsɴᴇʏʜᴅʟɪɴᴋs](https://t.me/DisneyHDLinks)
+
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤖 Channel', url='https://telegram.me/tellybots'),
-        InlineKeyboardButton('💬 Support', url='https://telegram.me/tellybots_support')
+        InlineKeyboardButton(' ᴜᴘᴅᴀᴛᴇs', url='https://telegram.me/tellybots'),
+        InlineKeyboardButton(' sᴜᴘᴘᴏʀᴛ', url='https://telegram.me/tellybots_support')
         ],[
-        InlineKeyboardButton('❔ Help', callback_data='help'),
-        InlineKeyboardButton('⛔ Close', callback_data='close')
+        InlineKeyboardButton(' Help', callback_data='help'),
+        InlineKeyboardButton(' About', callback_data='about')
+        ],[
+        InlineKeyboardButton(' Close', callback_data='close')
         ]]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🏡 Home', callback_data='home'),
-        InlineKeyboardButton('👲 About', callback_data='about'),
-        InlineKeyboardButton('⛔ Close', callback_data='close')
+        InlineKeyboardButton(' ʜᴏᴍᴇ', callback_data='home'),
+        InlineKeyboardButton(' ᴀʙᴏᴜᴛ', callback_data='about')
+        ],[
+        InlineKeyboardButton(' ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🏡 Home', callback_data='home'),
-        InlineKeyboardButton('❔ Help', callback_data='help'),
-        InlineKeyboardButton('⛔ Close', callback_data='close')
+        InlineKeyboardButton(' ʜᴏᴍᴇ', callback_data='home'),
+        InlineKeyboardButton(' ʜᴇʟᴘ', callback_data='help')
+        ],[
+        InlineKeyboardButton(' ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
 
@@ -96,8 +109,8 @@ Made With 💕 By @Tellybots
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to /ren with custom thumbnail support"
-    AFTER_GET_LINK = " <b>File Name :</b> <code>{}</code>\n<b>File Size :</b> {}\n\n<b>⚡Link⚡ :</b> <code>{}</code>\n\nJoin : @Tellybots_4u"
-    AFTER_GET_DL_LINK = " <b>File Name :</b> <code>{}</code>\n<b>File Size :</b> {}\n\n<b>⚡Link⚡ :</b> <code>{}</code>\n\nValid for <b>14</b> days.\nJoin : @Tellybots_4u"
+    AFTER_GET_LINK = " <b>File Name :</b> <code>{}</code>\n<b>File Size :</b> {}\n\n<b>⚡Link⚡ :</b> <code>{}</code>\n\nJoin : @Disney_bots_4u"
+    AFTER_GET_DL_LINK = " <b>File Name :</b> <code>{}</code>\n<b>File Size :</b> {}\n\n<b>⚡Link⚡ :</b> <code>{}</code>\n\nValid for <b>14</b> days.\nJoin : @Disney_bots_4u"
     #AFTER_GET_DL_LINK = " {} valid for 30 or more days.\n\n Join : @Tellybots_4u \n For the list of Telegram bots. "
     AFTER_GET_GOFILE_LINK = " <b>File Name :</b> <code>{}</code>\n<b>File Size :</b> {}\n<b>File MD5 Checksum :</b> <code>{}</code>\n\n<b>⚡Link⚡ :</b> <code>{}</code>\n\n Valid untill 10 days of inactivity\nJoin : @TGBotsCollection"
     FF_MPEG_RO_BOT_RE_SURRECT_ED = """Syntax: /trim HH:MM:SS for screenshot of that specific time."""
