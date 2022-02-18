@@ -22,12 +22,12 @@ async def status_handler(_, m: Message):
     disk_usage = psutil.disk_usage('/').percent
     total_users = await db.total_users_count()
     await m.reply_text(
-        text=f"**📦 Dɪꜱᴋ ꜱɪᴢᴇ** {total} \n\n"
-             f"**📀 Uꜱᴇᴅ:** {used}({disk_usage}%) \n\n"
-             f"**💿 Fʀᴇᴇ:** {free} \n\n"
-             f"**🚸 Cᴘᴜ :** {cpu_usage}% × Rᴀᴍ:** {ram_usage}%\n\n"
+        text=f"**📦 Dɪꜱᴋ ꜱɪᴢᴇ :** {total} \n\n"
+             f"**📀 Uꜱᴇᴅ :** {used}({disk_usage}%) \n\n"
+             f"**💿 Fʀᴇᴇ :** {free} \n\n"
+             f"**🚸 Cᴘᴜ :** {cpu_usage}% × **Rᴀᴍ :** {ram_usage}%\n\n"
              f"**👨🏻‍💻 Aᴄᴛɪᴠᴇ ᴜꜱᴇʀꜱ :** `{total_users}` \n\n"
-             f"**ᴘᴏᴡᴇʀᴇᴅ ʙʏ *@Disnry_Bots*,
+             f"**ᴘᴏᴡᴇʀᴇᴅ ʙʏ **@Disnry_Bots**,
         parse_mode="Markdown",
         quote=True
     )
