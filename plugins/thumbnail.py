@@ -42,10 +42,10 @@ async def viewthumbnail(bot, update):
         await bot.send_photo(
         chat_id=update.chat.id,
         photo=thumbnail,
-        caption=f"Your current saved thumbnail 🦠",
+        caption=f"🖼️ Tʜᴜᴍʙɴᴀɪʟ ꜱᴀᴠᴇᴅ ✓",
         reply_to_message_id=update.message_id)
     else:
-        await update.reply_text(text=f"No Thumbnail found 🤒")
+        await update.reply_text(text=f"Nᴏ ᴛʜᴜᴍʙɴᴀɪʟ ꜰᴏᴜɴᴅ 😟")
 
 async def Gthumb01(bot, update):
     thumb_image_path = Config.DOWNLOAD_LOCATION + "/" + str(update.from_user.id) + ".jpg"
