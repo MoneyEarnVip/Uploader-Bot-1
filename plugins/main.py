@@ -53,10 +53,10 @@ Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://telegram.me/Disney_B
         InlineKeyboardButton(' ᴜᴘᴅᴀᴛᴇs', url='https://telegram.me/Disney_bots'),
         InlineKeyboardButton(' sᴜᴘᴘᴏʀᴛ', url='https://telegram.me/Disneybots_support')
         ],[
-        InlineKeyboardButton(' Help', callback_data='help'),
-        InlineKeyboardButton(' About', callback_data='about')
+        InlineKeyboardButton(' ʜᴇʟᴘ', callback_data='help'),
+        InlineKeyboardButton(' ᴀʙᴏᴜᴛ', callback_data='about')
         ],[
-        InlineKeyboardButton(' Close', callback_data='close')
+        InlineKeyboardButton(' ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
