@@ -80,7 +80,7 @@ Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://telegram.me/Disney_B
     RENAME_403_ERR = "sᴏʀʀʏ. ʏᴏᴜʀ ᴀʀᴇ ɴᴏᴛ ᴘᴇʀᴍɪᴛᴛᴇᴅ ᴛᴏ ʀᴇɴᴀᴍᴇ ᴛʜɪs ғɪʟᴇ."
     ABS_TEXT = " ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʙᴇ sᴇʟғɪsʜ."
     UPGRADE_TEXT = "<b>ɴᴏ ᴘʀᴇᴍɪɴᴜᴍ ᴘʟᴀɴs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴏᴜʀ ʙᴏᴛ @Disney_Bots </b>  /help ғᴏʀ ᴅᴇᴛᴀɪʟs"
-    FORMAT_SELECTION = "ɴᴏᴡ sᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇsɪsʀᴇᴅ ғᴏʀᴍᴀᴛ ᴏʀ ғɪʟᴇ 🗄️ sɪᴢᴇ ᴛᴏ ᴜᴘʟᴏᴀᴅ"
+    FORMAT_SELECTION = "Nᴏᴡ ꜱᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇꜱɪʀᴇᴅ ꜰᴏʀᴍᴀᴛ (ᴏʀ) ꜰɪʟᴇ ꜱɪᴢᴇ ᴛᴏ ᴜᴘʟᴏᴀᴅ"
     SET_CUSTOM_USERNAME_PASSWORD = """"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_FILE = "📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ғɪʟᴇ "
