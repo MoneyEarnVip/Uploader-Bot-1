@@ -76,7 +76,7 @@ Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://telegram.me/Disney_B
         ]]
     )
 
-    IFLONG_FILE_NAME = " Only 64 characters can be named . "
+    IFLONG_FILE_NAME = " ᴏɴʟʏ 64 ᴄʜᴀʀᴀᴄᴛᴇʀs ᴄᴀɴ ʙᴇ ɴᴀᴍᴇᴅ . "
     RENAME_403_ERR = "sᴏʀʀʏ. ʏᴏᴜʀ ᴀʀᴇ ɴᴏᴛ ᴘᴇʀᴍɪᴛᴛᴇᴅ ᴛᴏ ʀᴇɴᴀᴍᴇ ᴛʜɪs ғɪʟᴇ."
     ABS_TEXT = " ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʙᴇ sᴇʟғɪsʜ."
     UPGRADE_TEXT = "<b>ɴᴏ ᴘʀᴇᴍɪɴᴜᴍ ᴘʟᴀɴs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴏᴜʀ ʙᴏᴛ @Disney_Bots </b>  /help ғᴏʀ ᴅᴇᴛᴀɪʟs"
@@ -92,24 +92,24 @@ Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://telegram.me/Disney_B
     UPLOAD_START = "📤 ᴜᴘʟᴏᴀᴅɪɴɢ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ..."
     RCHD_BOT_API_LIMIT = "sɪᴢᴇ ɢʀᴇᴀᴛᴇʀ ᴛʜᴀɴ ᴍᴀxɪᴍᴜᴍ ᴀʟʟᴏᴡᴇᴅ sɪᴢᴇ *500ᴍʙ). ɴᴇᴠᴇʀᴛʜʟᴇss, ᴛʀʏɪɴɢ ᴛᴏ ᴜᴘʟᴏᴀᴅ."
     RCHD_TG_API_LIMIT = "ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\nᴅᴇᴛᴇᴄᴛᴇᴅ ғɪʟᴇ sɪᴢᴇ: {}\nᴅᴏʀʀʏ. ʙᴜᴛ, ɪ ᴄᴀɴɴᴏᴛ ᴜᴘʟᴏᴀᴅ ғɪʟᴇs ɢʀᴇᴀᴛᴇʀ ᴛʜᴀɴ 2GB ᴅᴜᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ʟɪᴍɪᴛᴀᴛɪᴏɴ."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = " ᴊᴏɪɴ : https://t.me/Disney_Bots\nFor the List of Telegram Bots"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = " ᴊᴏɪɴ : https://t.me/Disney_Bots\nғᴏʀ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛs"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n\nᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ ᴍᴇ\n\nᴜᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs."
-    NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
+    NOT_AUTH_USER_TEXT = "ᴘʟᴇᴀsᴇ /upgrade ʏᴏᴜʀ sᴜʙsᴄʀɪᴘᴛɪᴏɴ."
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "ᴅᴇᴛᴇᴄᴛᴇᴅ ғɪʟᴇ sɪᴢᴇ: {}. ғʀᴇᴇ ᴜsᴇʀs ᴄᴀɴ ᴏɴʟʏ ᴜᴘʟᴏᴀᴅ: {}\nᴘʟᴇᴀsᴇ /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴄʟᴇᴀʀᴇᴅ sᴜᴄᴄᴇsғᴜʟʟʏ."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ ᴍᴇᴅɪᴀ ᴄʟᴇᴀʀᴇᴅ sᴜᴄᴄᴇsғᴜʟʟʏ."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = " "
+    CUSTOM_CAPTION_UL_FILE = " <b>ᴊᴏɪɴ : @Disney_Bots </b>"
     NO_CUSTOM_THUMB_NAIL_FOUND = "ɴᴏ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ғᴏᴜɴᴅ."
     NO_VOID_FORMAT_FOUND = "ᴘʟᴇᴀsᴇ sᴇɴᴅ ᴀ ᴠᴀʟɪᴅ ᴜʀʟ"
     FILE_NOT_FOUND = "ᴇʀʀᴏʀ, ғɪʟᴇ ɴᴏᴛ ғᴏᴜɴᴅ!!"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     SOMETHING_WRONG = "<code>Something Wrong. Try again.</code>"
-    REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
-    REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
-    REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
-    REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to /ren with custom thumbnail support"
+    REPLY_TO_DOC_GET_LINK = "ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛᴏ ɢᴇᴛ ʜɪɢʜ sᴘᴇᴇᴅ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ"
+    REPLY_TO_DOC_FOR_C2V = "ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛᴏ ᴄᴏɴᴠᴇʀᴛ"
+    REPLY_TO_DOC_FOR_SCSS = "ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛᴏ ɢᴇᴛ sᴄʀᴇᴇɴsʜᴏᴛs"
+    REPLY_TO_DOC_FOR_RENAME_FILE = "ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛᴏ /ren ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ"
     AFTER_GET_LINK = " <b>ғɪʟᴇ ɴᴀᴍᴇ :</b> <code>{}</code>\n<b>ғɪʟᴇ sɪᴢᴇ :</b> {}\n\n<b>⚡ʟɪɴᴋ⚡ :</b> <code>{}</code>\n\nJoin : @Disney_bots_4u"
     AFTER_GET_DL_LINK = " <b>ғɪʟᴇ ɴᴀᴍᴇ :</b> <code>{}</code>\n<b>ғɪʟᴇ sɪᴢᴇ :</b> {}\n\n<b>⚡ʟɪɴᴋ⚡ :</b> <code>{}</code>\n\nValid for <b>14</b> days.\nJoin : @Disney_bots_4u"
     #AFTER_GET_DL_LINK = " {} valid for 30 or more days.\n\n Join : @Disney_Bots_4u \n For the list of Telegram bots. "
@@ -131,10 +131,10 @@ Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://telegram.me/Disney_B
     EXTRACT_ZIP_STEP_TWO = """Select file_name to upload from the below options.
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
     CANCEL_STR = " ᴘʀᴏᴄᴇss ᴄᴀɴᴄᴇʟʟᴇᴅ"
-    ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
-    FREE_USER_LIMIT_Q_SZE = """Cannot Process.
-Free users only 1 request per 30 minutes.
-/upgrade or Try 1800 seconds later."""
+    ZIP_UPLOADED_STR = "ᴜᴘʟᴏᴀᴅᴇᴅ {} ғɪʟᴇs ɪɴ {} sᴇᴄᴏɴᴅs"
+    FREE_USER_LIMIT_Q_SZE = """ᴄᴀɴɴᴏᴛ ᴘʀᴏᴄᴇss.
+Fʀᴇᴇ ᴜsᴇʀs ᴏɴʟʏ 1 ʀᴇǫᴜᴇsᴛ ᴘʀᴇ 30 ᴍɪɴᴜᴛᴇs.
+/upgrade or ᴛʀʏ 1800 sᴇᴄᴏɴᴅs ʟᴀᴛᴇʀ."""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for using me 😌😉....</code>"
-    BANNED_USER_TEXT = "<code>You are Banned!</code>"
+    FORCE_SUBSCRIBE_TEXT = "<code>sᴏʀʀʏ ᴅᴇᴀʀ ʏᴏᴜ ᴍᴜsᴛ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜsɪɴɢ ᴍᴇ 😌😉....</code>"
+    BANNED_USER_TEXT = "<code>ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ!</code>"
