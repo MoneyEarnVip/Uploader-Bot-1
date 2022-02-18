@@ -210,7 +210,7 @@ async def echo(bot, update):
                 ])
                 inline_keyboard.append([                 
                     InlineKeyboardButton(
-                        " ᴄʟᴏsᴇ", callback_data='close')               
+                        " CLOSE", callback_data='close')               
                 ])
         else:
             format_id = response_json["format_id"]
@@ -221,18 +221,14 @@ async def echo(bot, update):
                 "video", format_id, format_ext, randem)
             inline_keyboard.append([
                 InlineKeyboardButton(
-                    "ᴠɪᴅᴇᴏ",
+                    "Video",
                     callback_data=(cb_string_video).encode("UTF-8")
                 ),
                 InlineKeyboardButton(
-                    "ғɪʟᴇ",
+                    "File",
                     callback_data=(cb_string_file).encode("UTF-8")
                 )
             ])
-                Inline_keyboard.append([                 
-                    InlineKeyboardButton(
-                        " ᴄʟᴏsᴇ", callback_data='close')               
-                ])
             cb_string_file = "{}={}={}".format(
                 "file", format_id, format_ext)
             cb_string_video = "{}={}={}".format(
@@ -286,18 +282,14 @@ async def echo(bot, update):
             "video", "OFL", "ENON")
         inline_keyboard.append([
             InlineKeyboardButton(
-                "ᴠɪᴅᴇᴏ",
+                "Video",
                 callback_data=(cb_string_video).encode("UTF-8")
             ),
             InlineKeyboardButton(
-                "ғɪʟᴇ",
+                "File",
                 callback_data=(cb_string_file).encode("UTF-8")
             )
         ])
-            Inline_keyboard.append([                 
-                    InlineKeyboardButton(
-                        " ᴄʟᴏsᴇ", callback_data='close')               
-                ])
         reply_markup = InlineKeyboardMarkup(inline_keyboard)
         await chk.delete(True)
         await bot.send_message(
