@@ -96,7 +96,7 @@ Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://telegram.me/Disney_B
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n\nᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ ᴍᴇ\n\nᴜᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs."
     NOT_AUTH_USER_TEXT = "ᴘʟᴇᴀsᴇ /upgrade ʏᴏᴜʀ sᴜʙsᴄʀɪᴘᴛɪᴏɴ."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "ᴅᴇᴛᴇᴄᴛᴇᴅ ғɪʟᴇ sɪᴢᴇ: {}. ғʀᴇᴇ ᴜsᴇʀs ᴄᴀɴ ᴏɴʟʏ ᴜᴘʟᴏᴀᴅ: {}\nᴘʟᴇᴀsᴇ /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
-    SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
+    SAVED_CUSTOM_THUMB_NAIL = "✅ Tʜᴜᴍʙɴᴀɪʟ ꜱᴀᴠᴇᴅ."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴄʟᴇᴀʀᴇᴅ sᴜᴄᴄᴇsғᴜʟʟʏ."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ ᴍᴇᴅɪᴀ ᴄʟᴇᴀʀᴇᴅ sᴜᴄᴄᴇsғᴜʟʟʏ."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
